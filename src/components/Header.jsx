@@ -7,7 +7,7 @@ const Container = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  border: solid 1px;
+  border-bottom: 1px solid lightgray;
 `;
 
 const Frame = styled.div`

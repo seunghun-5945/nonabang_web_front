@@ -6,15 +6,6 @@ import { RiKakaoTalkFill } from "react-icons/ri";
 import { FcGoogle } from "react-icons/fc";
 import Main from "../components/Main";
 
-const SampleLayout = styled.div`
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  align-items :center;
-  justify-content: center;
-  background-color: salmon;
-`;
-
 const Container = styled.div`
   width: 500px;
   height: 900px;
